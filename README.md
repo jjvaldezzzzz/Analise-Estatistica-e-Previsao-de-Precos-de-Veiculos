@@ -72,9 +72,7 @@ O projeto foi desenvolvido como parte de um requisito acadêmico para demonstrar
     Abra o arquivo `.ipynb` no Jupyter Notebook, VS Code ou Google Colab.
     *Certifique-se de que o arquivo `car data.csv` esteja na mesma pasta.*
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autores
 
-Desenvolvido por **[SEU NOME AQUI]**
+Desenvolvido por **[José Valdez e Lucas Mesquita]**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:SEU_EMAIL@GMAIL.COM)
